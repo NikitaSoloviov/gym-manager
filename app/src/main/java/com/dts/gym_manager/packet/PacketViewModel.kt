@@ -47,7 +47,6 @@ class PacketViewModel(private val apiService: RestApiService) : ViewModel() {
                 isPurchaseSuccessLiveData.postValue(false)
                 Timber.e(exception)
             }
-
         })
     }
 

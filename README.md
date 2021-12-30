@@ -5,3 +5,4 @@ App of Gym Manager
 - MVVM.
 - DI Koin.
 - Logging via Timber.
+- Retrofit
